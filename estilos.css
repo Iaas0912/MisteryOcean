@@ -163,10 +163,6 @@ p::selection {
     color: navy;
 }
 
-.rodape2 {
-    margin-top: 289px;
-}
-
 .seta {
     background-color: lightskyblue;
     padding: 15px;
@@ -207,4 +203,12 @@ p::selection {
 
 #esconder:hover {
     opacity: 100%;
+}
+
+.criaturas {
+    width: 400px;
+    margin-left: 80px;
+    margin-top: 30px;
+    border-bottom: 3px dashed lightblue;
+    border-right: 3px dashed lightblue;
 }
